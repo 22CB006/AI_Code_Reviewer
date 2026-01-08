@@ -1,11 +1,11 @@
 
-#  🤖  AI-Powered Code Reviewer
+#   AI-Powered Code Reviewer
 
 An advanced **AI-Powered Code Reviewer** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This application leverages the **Deepseek R1 model** with **Groq API** to provide ultra-fast, intelligent code reviews, enhancing code quality and development efficiency.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Automated Code Analysis**: Utilizes AI to review code, identify potential issues, and suggest improvements.
 - **Real-Time Feedback**: Offers instantaneous feedback to developers, streamlining the development process.
@@ -20,20 +20,20 @@ An advanced **AI-Powered Code Reviewer** built using the **MERN stack** (MongoDB
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 
 ```sh
 git clone https://github.com/22CB006/MERN_Stack_Gen-AI_Code_Reviewer.git
 cd MERN_Stack_Gen-AI_Code_Reviewer
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```sh
 npm install
 ```
 
-### 3️⃣ Set up environment variables
+### 3️ Set up environment variables
 
 Create a **.env** file and add:
 
@@ -42,7 +42,7 @@ GROQ_API_KEY=your_api_key_here
 PORT=3000
 ```
 
-### 4️⃣ Start the server
+### 4️ Start the server
 
 ```sh
 npm start
@@ -54,7 +54,7 @@ Server runs at `http://localhost:3000`
 
 
 
-## 🤝 Contributing
+## Contributing
 
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature-branch`)
@@ -64,7 +64,7 @@ Server runs at `http://localhost:3000`
 
 ---
 
-## ⭐ Acknowledgments
+## Acknowledgments
 
 - Built with **MERN Stack** & **Deepseek R1 AI Model**
 - AI-powered inference using **Groq API**
@@ -72,4 +72,4 @@ Server runs at `http://localhost:3000`
 
 ---
 
-Happy Coding! 🎉 
+Happy Coding!
